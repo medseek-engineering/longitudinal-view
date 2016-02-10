@@ -50,6 +50,7 @@ module.exports = function (config) {
       'node_modules/ui-core/lib/content/js/angular.js',
       'node_modules/ui-core/lib/content/js/main.js',
       'node_modules/lodash/dist/lodash.min.js',
+      'node_modules/d3/d3.min.js',
       'test/angular-mocks.js',
 
       // app module dependencies
