@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "longitudinal view",
   "main": "./lib/index.js",
-  "private": true,
+  "private": false,
   "scripts": {
     "test": "node node_modules/karma/bin/karma start",
     "jshint": "node node_modules/jshint/bin/jshint -c config/.jshintrc app/modules test/modules app.js",
